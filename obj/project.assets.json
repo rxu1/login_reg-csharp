@@ -11581,11 +11581,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/rx/Documents/CodingDojo/csharp_stack/orms/LoginRegistration/LoginRegistration.csproj",
+      "projectUniqueName": "/Users/rx/Documents/CodingDojo/csharp_stack/orms/login_reg-csharp/LoginRegistration.csproj",
       "projectName": "LoginRegistration",
-      "projectPath": "/Users/rx/Documents/CodingDojo/csharp_stack/orms/LoginRegistration/LoginRegistration.csproj",
+      "projectPath": "/Users/rx/Documents/CodingDojo/csharp_stack/orms/login_reg-csharp/LoginRegistration.csproj",
       "packagesPath": "/Users/rx/.nuget/packages/",
-      "outputPath": "/Users/rx/Documents/CodingDojo/csharp_stack/orms/LoginRegistration/obj/",
+      "outputPath": "/Users/rx/Documents/CodingDojo/csharp_stack/orms/login_reg-csharp/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
